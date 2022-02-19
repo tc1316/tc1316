@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Checkout my Makers final project here: https://crosswordle-production.herokuapp.com/
+
+The Github repo for the above can be found [here](https://github.com/jessgordon/crosswordle)
+
 <!--
 **tc1316/tc1316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
