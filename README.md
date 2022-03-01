@@ -2,9 +2,8 @@
 
 Checkout my Makers final project here: https://crosswordle-production.herokuapp.com/
  - The Github repo for the above can be found [here](https://github.com/jessgordon/crosswordle)
- - Or a more recent version here: https://crosswordle-new.vercel.app ([Github](https://github.com/tc1316/crosswordle?organization=tc1316&organization=tc1316))
 
-I'm currently looking for a junior dev role in the London area :) You can reach me [here](https://www.linkedin.com/in/tituschang52/)
+I'm currently looking for a junior dev role in the London area :) You can reach me [here](https://www.linkedin.com/in/tituschang52/) or by via email: tituschang@hotmail.co.uk
 
 <!--
 **tc1316/tc1316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
