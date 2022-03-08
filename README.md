@@ -3,7 +3,9 @@
 Checkout my Makers final project here: https://crosswordle-production.herokuapp.com/
  - The Github repo for the above can be found [here](https://github.com/jessgordon/crosswordle)
 
-I'm currently looking for a junior dev role in the London area :) You can reach me [here](https://www.linkedin.com/in/tituschang52/) or by via email: tituschang@hotmail.co.uk
+I'm currently looking for a junior dev role in the London area :) 
+You can find my CV [here](https://github.com/tc1316/CV/blob/master/README.md)
+You can reach me [here](https://www.linkedin.com/in/tituschang52/) or by via email: tituschang@hotmail.co.uk
 
 <!--
 **tc1316/tc1316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
